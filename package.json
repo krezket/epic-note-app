@@ -4,5 +4,17 @@
     "inquirer": "^9.2.0",
     "nodemon": "^2.0.22",
     "uuid": "^9.0.0"
-  }
+  },
+  "name": "epic-note-app",
+  "description": "This application uses express.js to add and delete notes from an html page.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
